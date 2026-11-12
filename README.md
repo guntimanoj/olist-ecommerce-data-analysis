@@ -2,6 +2,9 @@
 
 **Live dashboard:** https://guntimanoj-olist.streamlit.app
 
+<img width="1920" height="1080" alt="Screenshot_20261112-175441" src="https://github.com/user-attachments/assets/0d7880a1-1c43-4fb1-ae4c-e16416458611" />
+
+
 Analysis of about 99,000 orders from Olist, a Brazilian online marketplace (Sept 2016 to Oct 2018), using Python, pandas, SQL (SQLite) and Streamlit.
 
 ## Aim
